@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "firecrawl-competitive-intel": {
+      "source": "firecrawl/firecrawl-workflows",
+      "sourceType": "github",
+      "skillPath": "skills/firecrawl-competitive-intel/SKILL.md",
+      "computedHash": "6fb3cd16d2dc8ac5ecaf9231fea3c9ad05cbeac1a9663bb9bec9deb63ae5f6cc"
+    }
+  }
+}
